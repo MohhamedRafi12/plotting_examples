@@ -69,7 +69,7 @@ def plot_random_gauss_2x2():
     ax.set_xlabel('x')
     ax.set_ylabel('frequency')
 
-  plt.savefig('./canvas2_py.png')
+  plt.savefig('./canvas2_py.pdf')
   plt.tight_layout()
 
 if __name__ == "__main__":
